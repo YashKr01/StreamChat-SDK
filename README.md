@@ -4,7 +4,7 @@
 - Application Name - **STREAM CHAT**
 - Language Used - Kotlin (v1.3.72)  
 - IDE used - Android Studio (v4.1.2)  
-- Get More Information and Documentation [here](https://getstream.io/)
+- Get More Information and Documentation from [here](https://getstream.io/)
 
 # Screenshots (DAY)
 
