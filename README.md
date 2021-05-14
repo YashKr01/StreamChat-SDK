@@ -1,7 +1,8 @@
-# Build a Chat App using Stream Chat SDK for Android
+# Description 
 
-Part 1: https://youtu.be/GrAwH6Sb834 <br/>
-Part 2: https://youtu.be/OlbBcclGPK8 <br/>
-Part 3: https://youtu.be/GKOrG-bvPWo
+- Implementation of [STREAM CHAT](https://github.com/GetStream/stream-chat-android) SDK for Android Using KOTLIN
+- Application Name - **STREAM CHAT**
+- Language Used - Kotlin (v1.3.72)  
+- IDE used - Android Studio (v4.1.2)  
+- Get More Information and Documentation [here](https://getstream.io/)
 
-![alt text](https://i.postimg.cc/C5mXnG7v/Stream-Chat.png)
